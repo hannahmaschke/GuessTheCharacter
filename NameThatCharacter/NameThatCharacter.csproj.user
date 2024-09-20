@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="match90s2000sCharacters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="multipleChoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="resultWindowForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="statsFormMultipleChoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
